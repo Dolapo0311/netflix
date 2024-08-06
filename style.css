@@ -1,0 +1,95 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background: url(netfliximg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    
+}
+h1 {
+    color: red;
+    text-align: left;
+}
+form {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+
+
+
+}
+.main {
+    background-color: rgba(0, 0, 0, 0.877);
+    padding:30px ;
+    margin: 20px;
+}
+.main h1 {
+     color: white;
+     padding-bottom: 30px;
+     margin-top: 30px;
+}
+
+input {
+    background-color: rgba(211, 211, 211, 0.171);
+}
+.two {
+    margin: 10px;
+    padding: 15px;
+    width: 100%;
+    border-radius: 3px;
+    border: none;
+}
+.one {
+    background-color: red;
+    color:lightgrey;
+    margin-top: 30px;
+}
+.checkbox {
+    color: white;
+    display: flex;
+    padding: 5px;
+    justify-content: space-between;
+    
+}
+.fa {
+    color: white;
+    background-color: blue;
+    padding: 5px;
+    font-size: 15px;
+    text-decoration: none;
+}
+.icon {
+    display: flex;
+    color:lightgrey;
+    padding-top: 50px;
+    
+    
+ }
+ .sign {
+    display: flex;
+    color:lightgrey;
+    padding-top: 10px;
+    
+    
+ }
+.sign a {
+    color: white;
+    text-decoration: none;
+}
+.learn {
+    color:lightgrey;
+    display: flex;
+    padding-top: 10px;
+    margin-bottom: 50px;
+}
+.learn a {
+    text-decoration: none;
+} 
+h2 {
+    color: white;
+    padding-top: 30px;
+}
